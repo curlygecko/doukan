@@ -2,7 +2,7 @@
 
 
 function muzikBaslat(){
-    document.getElementById("muzikk").play();
+    document.getElementById("muzik").play();
 };
 
 let colors = ["red", "blue", "green"];
