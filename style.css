@@ -7,6 +7,18 @@ a{
     color: red;
 }
 
+#res{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+#renkDegis{
+
+}
+
 #nav ul{
     list-style-type: none;
     padding:0;
@@ -40,9 +52,10 @@ h1, h2, h3 {
 }
 
 #main{
-    width: 600px;
-    float: left;
-    float: right;
+    text-align: center;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #footer{
