@@ -1,3 +1,7 @@
+var audio = new Audio("epicMusic.mp3");
+
+audio.play();
+
 let colors = ["red", "blue", "green"];
 
 function changeColor(){
